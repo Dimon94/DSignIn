@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SignIn</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
 </resources>
